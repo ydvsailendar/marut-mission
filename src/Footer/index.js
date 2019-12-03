@@ -12,7 +12,7 @@ export default function Footer() {
               <p className="card-text">
                 <b>MARUT</b>: Motivate All Retruse & Unique Talent
               </p>
-              <blockquote class="quote-box">
+              <blockquote className="quote-box">
                 <p class="quote-text">
                   " माता रून बन्द गर्नुहोस् तपाईंको अगाडि म छु । <br />
                   सुसंस्कृत,सिर्जनशील, समृद्ध संसार म बनाउँछु ।। "
@@ -51,7 +51,7 @@ export default function Footer() {
           @developer <b>ydvsailedar</b>
         </div>
         <div className="float float-left">
-          © 2019 Copyright: <b>marutmission.com</b>
+          © 2019 Copyright: <b>marut-mission</b>
         </div>
       </div>
     </div>
