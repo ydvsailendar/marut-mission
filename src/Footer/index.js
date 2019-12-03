@@ -38,8 +38,8 @@ export default function Footer() {
               <h5 className="card-title">Contact Details</h5>
               <hr />
               <p className="card-text">
-                <b>Address</b> : MARUT Mission, Kathmandu-8 <br />
-                <b>Contact No.</b> : 984XXXXXXX <br />
+                <b>Address</b> : Marut Mission, Kathmandu-8 <br />
+                <b>Contact No.</b> : 9849612358 <br />
                 <b>Email</b>: marutmission@gmail.com
               </p>
             </div>
