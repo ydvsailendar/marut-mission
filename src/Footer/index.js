@@ -13,7 +13,7 @@ export default function Footer() {
                 <b>MARUT</b>: Motivate All Retruse & Unique Talent
               </p>
               <blockquote className="quote-box">
-                <p class="quote-text">
+                <p className="quote-text">
                   " माता रून बन्द गर्नुहोस् तपाईंको अगाडि म छु । <br />
                   सुसंस्कृत,सिर्जनशील, समृद्ध संसार म बनाउँछु ।। "
                 </p>
