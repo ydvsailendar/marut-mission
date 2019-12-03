@@ -12,7 +12,7 @@ import Volunteering from "../Components/Volunteering";
 export default function Header() {
   return (
     <Router>
-      <div className="container-fluid fixed">
+      <div className="container-fluid fixed-top">
         <ul className="nav nav-tabs justify-content-end">
           <li className="nav-item">
             <Link className="nav-link" to="/">
